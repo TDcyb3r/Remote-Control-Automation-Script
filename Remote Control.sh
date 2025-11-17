@@ -2,11 +2,7 @@
 
 # ===========================
 # REMOTE CONTROL PROJECT SCRIPT
-# STUDENT NAME: Tomer Deri
-# STUDENT CODE: s5
-# PROGRAM CODE: nx201
-# UNIT CODE: TMagen773637
-# LECTURER NAME: EREL REGEV
+# NAME: Tomer Dery
 # ===========================
 
 # ===== Colors =====
